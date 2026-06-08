@@ -1,10 +1,10 @@
 # Financial Performance Dashboard
 ### Objective
-The objective of this project is to analyze financial performance across products, customer segments, and countries using Tableau to uncover sales trends, profitability drivers, and regional revenue insights.
+The objective of this project is to analyze financial performance across products, customer segments and countries using Tableau to uncover sales trends, profitability drivers and regional revenue insights.
 
 ## Dataset Overview
 - The dataset covers sales transactions from September 2013 to December 2014.
-- It includes information related to products, customer segments, countries, sales revenue, and profit.
+- It includes information related to products, customer segments, countries, sales revenue and profit.
 - Date columns were used to enable monthly time-based trend analysis.
 - Data spans 5 countries: Canada, France, Germany, Mexico, and the United States.
 
@@ -32,4 +32,4 @@ The objective of this project is to analyze financial performance across product
 
 ## Visualization
 
-Dashboard: 
+Dashboard: ![Financial_Performance_Dashboard](Images/Financial_Performance_Dashboard.png)
